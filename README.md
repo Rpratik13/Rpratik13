@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **r.pratik013@gmail.com**
 
-- 📄 Know about my experiences [rpratik13.github.io/resume](rpratik13.github.io/resume)
+- 📄 Know about my experiences [rpratik13.github.io/resume](https://rpratik13.github.io/resume)
 
 - ⚡ Fun fact **I do leetcode in my spare time**
 
